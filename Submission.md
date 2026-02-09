@@ -37,7 +37,7 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes / No)    YES
-- GitHub Actions Run URL:
+- GitHub Actions Run URL:   https://github.com/ace-tk/jest-workshop/actions/runs/21825442660
 
 ---
 
