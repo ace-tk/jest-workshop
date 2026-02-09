@@ -36,7 +36,7 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 ---Ensures the function behaves correctly even if the user enters coupon codes in lowercase or mixed case
 
 ## CI Pipeline (if implemented)
-- Did CI pass successfully? (Yes / No)
+- Did CI pass successfully? (Yes / No)    YES
 - GitHub Actions Run URL:
 
 ---
